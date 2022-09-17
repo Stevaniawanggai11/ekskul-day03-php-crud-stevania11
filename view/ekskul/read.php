@@ -51,6 +51,10 @@
 
                             <?php echo siswa_read(); ?>
 
+                            <?php
+
+                            ?>
+
                         </tbody>
                     </table>
 
